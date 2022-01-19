@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZYBERNAU - PLOG</title>
-    <link>https://zybernau.in/</link>
-    <description>Recent content on ZYBERNAU - PLOG</description>
+    <title>untagged on ZYBERNAU - PLOG</title>
+    <link>https://zybernau.in/tags/untagged/</link>
+    <description>Recent content in untagged on ZYBERNAU - PLOG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Thu, 20 Jan 2022 02:40:10 +0530</lastBuildDate><atom:link href="https://zybernau.in/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 20 Jan 2022 02:40:10 +0530</lastBuildDate><atom:link href="https://zybernau.in/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
       <link>https://zybernau.in/posts/about-me/</link>
@@ -29,26 +29,6 @@ setx &amp;lt;variable&amp;gt; &amp;lt;value&amp;gt;
 setting path
 setx path &amp;quot;%path% &amp;lt;newPath&amp;gt;
 if env variables not reflected, please restart</description>
-    </item>
-    
-    <item>
-      <title>Qkus</title>
-      <link>https://zybernau.in/posts/qkus/</link>
-      <pubDate>Thu, 20 Jan 2022 01:43:47 +0530</pubDate>
-      
-      <guid>https://zybernau.in/posts/qkus/</guid>
-      <description>Getting Started with quarkus
-install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable. install maven , means have add the maven bin path in the path variable.
-in VScode install Quarkus tools for vscode.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://zybernau.in/posts/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zybernau.in/posts/about/</guid>
-      <description>Clicks | Clacks | Codes</description>
     </item>
     
   </channel>

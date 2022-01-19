@@ -1,18 +1,44 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
-    <loc>/posts/my-first-post/</loc>
-    <lastmod>2019-02-09T19:52:12-06:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2019-02-09T19:52:12-06:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2019-02-09T19:52:12-06:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
-    <loc>/tags/</loc>
+    <loc>https://zybernau.in/posts/about-me/</loc>
+    <lastmod>2022-01-20T02:40:10+05:30</lastmod>
   </url>
+  
+  <url>
+    <loc>https://zybernau.in/posts/</loc>
+    <lastmod>2022-01-20T02:40:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/tags/</loc>
+    <lastmod>2022-01-20T02:40:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/tags/untagged/</loc>
+    <lastmod>2022-01-20T02:40:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/</loc>
+    <lastmod>2022-01-20T02:40:10+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/posts/env-variables-nonadmin/</loc>
+    <lastmod>2022-01-20T02:18:17+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/posts/qkus/</loc>
+    <lastmod>2022-01-20T01:43:47+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zybernau.in/posts/about/</loc>
+  </url>
+  
 </urlset>

@@ -1,22 +1,72 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Zybernau</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on Zybernau</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>zybernau.in</copyright>
-    <lastBuildDate>Sat, 09 Feb 2019 19:52:12 -0600</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Introduction</title>
-      <link>/posts/my-first-post/</link>
-      <pubDate>Sat, 09 Feb 2019 19:52:12 -0600</pubDate>
-      
-      <guid>/posts/my-first-post/</guid>
-      <description>This site is all about personal views in technology and politics.
-All the views are personal. Neither endorsed nor preached.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Posts on ZYBERNAU - PLOG</title>
+		<link>https://zybernau.in/posts/</link>
+		<description>Recent content in Posts on ZYBERNAU - PLOG</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Thu, 20 Jan 2022 02:40:10 +0530</lastBuildDate>
+		<atom:link href="https://zybernau.in/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>About Me</title>
+			<link>https://zybernau.in/posts/about-me/</link>
+			<pubDate>Thu, 20 Jan 2022 02:40:10 +0530</pubDate>
+			
+			<guid>https://zybernau.in/posts/about-me/</guid>
+			<description>Clicks | Clacks | Codes</description>
+			<content type="html"><![CDATA[<p>Clicks | Clacks | Codes</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Add Env Variables by Nonadmin</title>
+			<link>https://zybernau.in/posts/env-variables-nonadmin/</link>
+			<pubDate>Thu, 20 Jan 2022 02:18:17 +0530</pubDate>
+			
+			<guid>https://zybernau.in/posts/env-variables-nonadmin/</guid>
+			<description>use user defined variables, Only System variable require elevated previlages
+for windows, use setx command.
+setx &amp;lt;variable&amp;gt; &amp;lt;value&amp;gt;
+setting path
+setx path &amp;quot;%path% &amp;lt;newPath&amp;gt;
+if env variables not reflected, please restart</description>
+			<content type="html"><![CDATA[<p>use user defined variables, Only System variable require elevated previlages</p>
+<p>for windows, use setx command.</p>
+<p><code>setx &lt;variable&gt; &lt;value&gt;</code></p>
+<p>setting path</p>
+<p><code>setx path &quot;%path% &lt;newPath&gt;</code></p>
+<p>if env variables not reflected, please restart</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>Qkus</title>
+			<link>https://zybernau.in/posts/qkus/</link>
+			<pubDate>Thu, 20 Jan 2022 01:43:47 +0530</pubDate>
+			
+			<guid>https://zybernau.in/posts/qkus/</guid>
+			<description>Getting Started with quarkus
+install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable. install maven , means have add the maven bin path in the path variable.
+in VScode install Quarkus tools for vscode.</description>
+			<content type="html"><![CDATA[<p>Getting Started with quarkus</p>
+<p>install java jdk 11 or 17, set <code>JAVA_HOME</code>, <code>JDK_HOME</code>,  variable.
+install maven , means have add the maven bin path in the path variable.</p>
+<p>in VScode install Quarkus tools for vscode.</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title></title>
+			<link>https://zybernau.in/posts/about/</link>
+			<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+			
+			<guid>https://zybernau.in/posts/about/</guid>
+			<description>Clicks | Clacks | Codes</description>
+			<content type="html"><![CDATA[<p>Clicks | Clacks | Codes</p>
+]]></content>
+		</item>
+		
+	</channel>
 </rss>
