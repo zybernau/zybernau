@@ -48,11 +48,14 @@ if env variables not reflected, please restart</description>
 			
 			<guid>https://zybernau.in/posts/qkus/</guid>
 			<description>Getting Started with quarkus
-install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable. install maven , means have add the maven bin path in the path variable.
+install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable.
+refer other posts for setting the env variable for non admins =&amp;gt; /posts/env-variables-nonadmin/
+install maven , means have add the maven bin path in the path variable.
 in VScode install Quarkus tools for vscode.</description>
 			<content type="html"><![CDATA[<p>Getting Started with quarkus</p>
-<p>install java jdk 11 or 17, set <code>JAVA_HOME</code>, <code>JDK_HOME</code>,  variable.
-install maven , means have add the maven bin path in the path variable.</p>
+<p>install java jdk 11 or 17, set <code>JAVA_HOME</code>, <code>JDK_HOME</code>,  variable.</p>
+<p>refer other posts for setting the env variable for non admins =&gt; /posts/env-variables-nonadmin/</p>
+<p>install maven , means have add the maven bin path in the path variable.</p>
 <p>in VScode install Quarkus tools for vscode.</p>
 ]]></content>
 		</item>
