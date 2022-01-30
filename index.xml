@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ZYBERNAU - PLOG</title>
+    <title>ZYBERNAU</title>
     <link>https://zybernau.in/</link>
-    <description>Recent content on ZYBERNAU - PLOG</description>
+    <description>Recent content on ZYBERNAU</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
@@ -38,9 +38,7 @@ if env variables not reflected, please restart</description>
       
       <guid>https://zybernau.in/posts/qkus/</guid>
       <description>Getting Started with quarkus
-install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable.
-refer other posts for setting the env variable for non admins =&amp;gt; /posts/env-variables-nonadmin/
-install maven , means have add the maven bin path in the path variable.
+install java jdk 11 or 17, set JAVA_HOME, JDK_HOME, variable. install maven , means have add the maven bin path in the path variable.
 in VScode install Quarkus tools for vscode.</description>
     </item>
     
